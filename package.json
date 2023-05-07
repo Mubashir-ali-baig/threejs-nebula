@@ -6,7 +6,7 @@
     "postprocessing": "^6.8.5",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "three": "^0.109.0",
     "threejs-post-processing": "^1.0.0"
   },
